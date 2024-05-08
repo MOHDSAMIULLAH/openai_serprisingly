@@ -82,7 +82,7 @@ Welcome to the OpenAI Trivia Generator! This application allows users to generat
    - Backend: cd backend && npm install
 4. Set up environment variables:
    - Create a .env file in the backend directory.
-   - Add necessary environment variable i.e., OPENAI_API_KEY = sk-proj-1QW923pO4JJiQ9Sacj2UT3BlbkFJo2h9dY6XunsAtNwBQfEJ .
+   - Add necessary environment variable i.e., OPENAI_API_KEY
 5. Start the application:
    - Frontend: cd frontend && npm start
    - Backend: cd backend && npm run dev
